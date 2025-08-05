@@ -1,2 +1,3 @@
 # COMP 271 WEEK 09 REVIEW
 
+For the assignment for week 09, all my methods that I made passed the tests that I also made. There were some slight differences in our findmax but otherwise, they look pretty similar. Something I should've emplimented was the param part above the code. We have a lot of similarities in the reverseArray method and binarySearch method.The main differences were in the countOccurrences method. Your code for countOccurrences was a lot easier to read. I could've shortened it by a lot. Overall, I think my code was pretty decent but I deffinetly still have room to imrpove on the litte things when writing the methods.
